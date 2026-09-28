@@ -1,0 +1,10 @@
+streamlit
+streamlit-lottie
+PyPDF2
+nltk
+pandas
+matplotlib
+reportlab
+scikit-learn
+PyMuPDF
+openpyxl
